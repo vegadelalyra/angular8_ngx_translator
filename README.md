@@ -1,5 +1,8 @@
 # Ngxtranslate
 
+![imagen](https://github.com/user-attachments/assets/07b5bf64-ac98-48ea-b036-d5528cf7d2e6)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
 
 ## Development server
